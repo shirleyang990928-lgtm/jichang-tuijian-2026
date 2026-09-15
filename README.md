@@ -11,7 +11,7 @@
 
 **关键词**：机场推荐、机场排行、便宜机场、机场订阅、Clash 机场、小火箭机场、v2rayN 机场、科学上网机场、IPLC 专线机场
 
-**最后更新**：<!--DATE-->2026-09-14<!--/DATE--> · 网站原文：[https://www.jichangmiao.com/](https://www.jichangmiao.com/)
+**最后更新**：<!--DATE-->2026-09-15<!--/DATE--> · 网站原文：[https://www.jichangmiao.com/](https://www.jichangmiao.com/)
 
 ## 目录
 
